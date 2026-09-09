@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sports Video Editing"
+  short_description: "Build sports highlights, athlete reels, and edits"
+  default_prompt: "Use $sports-video-editing to turn this footage into a sports highlight reel."
