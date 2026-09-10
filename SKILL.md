@@ -5,7 +5,11 @@ description: Edit supplied sports footage into highlight reels, athlete showcase
 
 # Sports Video Editing
 
-Build readable, exciting sports edits from real footage. This initial version is ready for further development with the user; no particular sport, athlete, music genre, or effect package is established as a default. It is an instructional skill, not a bundled renderer or download service.
+Build readable, exciting sports edits from real footage. Adapt to the sport, athlete, audience and edit brief; previous athletes and project preferences are not defaults for new users. It is an instructional skill, not a bundled renderer or download service.
+
+## Quick introduction for a new project
+
+Read [New-project intake](references/new-project-intake.md) when starting with a new user, athlete or substantially different brief. Briefly introduce the workflow, then ask only the missing questions needed to establish the athlete, footage and desired result. Reuse conversation context and saved project decisions; do not restart intake for a revision. Inspect available footage and tools while waiting for optional preferences.
 
 ## Project and safety boundaries
 
@@ -22,7 +26,7 @@ An editing request authorizes reversible local drafts and requested exports. Pro
 - Game recap: preserve scoring and chronological context where relevant. Verify score, clock, teams and outcome from the source or reliable supplied records. Label replays so the same play is not mistaken for a second score.
 - Music-driven edit: build rhythm and emphasis around actual athletic action, balancing musical beats with meaningful moments. Effects may stylize the footage, but should not fabricate a play or alter its apparent outcome.
 
-If the mode is unspecified, infer it from the brief and supplied references. Record sport, target audience, length/aspect ratio, athlete/team focus, music preference, must-keep moments and source limitations when known. Do not impose a mandatory questionnaire.
+If the mode is unspecified, infer it from the brief and supplied references. Record sport, target audience, length/aspect ratio, athlete/team focus, music preference, must-keep moments and source limitations when known. Use the short intake when these details are missing; offer recommendations instead of requiring the user to make technical choices.
 
 ## Find and assemble action
 
@@ -39,6 +43,10 @@ Default to footage filling the canvas without decorative top/bottom panels. Pres
 Captions are useful for meaningful commentary or interviews; they are not mandatory over every sports play. If captions are needed, the user's approved options are condensed uppercase white text with a compact yellow word highlight, or sentence-case white text with cyan underline emphasis. Keep captions and credits away from the ball, athlete, goal, scoreboard and controls. Do not inherit podcast caption placement blindly.
 
 Do not invent stats, scoreboards, player identities, sponsorships or claims. Generated graphics may explain supported action but must not simulate nonexistent footage or achievements.
+
+## Quality and export choices
+
+Read [Quality and delivery](references/quality-and-delivery.md) for enhancement requests, mixed source formats, storage constraints, or mobile/email delivery. Separate source detail, export resolution and delivery compression. Use a representative comparison when a quality or crop choice materially affects the edit, and save the accepted choice before extending it.
 
 ## Verify and deliver
 
